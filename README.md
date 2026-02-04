@@ -8,10 +8,23 @@
 
 ###
 
-* 🌎: Soy de Argentina
+* 🌎: Soy de Argentina "🇦🇷"
 * 👨‍💻: Desarrollo programas y juegos por diversion
 * ⭐: Mi lenguaje favorito es C
 * 🔗: Puedes ver mis otras Redes en [Linktree](https://linktr.ee/xDino99)
+* 👨‍💻: Desarrollador de el lenguaje de programacion "Prime C"
+
+###
+
+<h2 align="left">⚙️🛠️ Mis Game Engine:</h2>
+
+* DinoEngine - Prime C
+
+###
+
+<h2 align="left">📜 Mis Lenguajes de programacion:</h2>
+
+* Prime C
 
 ###
 
