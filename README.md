@@ -4,7 +4,7 @@
 
 ###
 
-<h2 align="left">Sobre Mí:</h4>
+<h2 align="left">🧑 Sobre Mí:</h4>
 
 ###
 
@@ -13,6 +13,16 @@
 * ⭐: Mi lenguaje favorito es C
 * 🔗: Puedes ver mis otras Redes en [Linktree](https://linktr.ee/xDino99)
 * 👨‍💻: Desarrollador de el lenguaje de programacion "Prime C"
+* 🎮: Además de crear juegos, disfruto jugar clásicos de PC y PS2
+* ⚡: Mi primer juego lo hice en Construct 2 (era un snake)
+
+###
+
+<h2 align="left">❓ En qué estoy trabajando actualmente</h2>
+
+* 🔧 Optimizando **DinoEngine**
+* 📖 Documentando el lenguaje **Prime C**
+* 🕹️ Prototipando un pequeño juego en Unity 5.6 C#
 
 ###
 
