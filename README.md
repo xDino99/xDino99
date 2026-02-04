@@ -86,6 +86,7 @@
   <img src="https://libresprite.github.io/assets/ase.ico" height="40" alt="libresprite logo" />
   <img src="https://upload.wikimedia.org/wikipedia/en/0/08/Resource_hacker_icon2.png" height="40" alt="resource hacker" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/7-Zip_Icon.svg/1280px-7-Zip_Icon.svg.png" height="40" alt="7zip logo" />
+  <img src="https://lonm.vivaldi.net/wp-content/uploads/sites/1533/2019/06/icon6-large.png" height="40" alt="Notepad++ logo" />
 </div>
 
 ###
