@@ -4,10 +4,6 @@
 
 ###
 
-<h2 align="center">Esta es la descripcion de mi perfil xd</h2>
-
-###
-
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/@xDino99)
 [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?style=for-the-badge&logo=TikTok&logoColor=white)]([TU_ENLACE_DE_TIKTOK](https://www.tiktok.com/@xdino99t))
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pronto@gmail.com)
