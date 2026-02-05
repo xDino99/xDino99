@@ -8,7 +8,13 @@
 
 ###
 
-<h2 align="left">🧑 Sobre Mí:</h4>
+[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/@xDino99)
+[![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?style=for-the-badge&logo=TikTok&logoColor=white)]([TU_ENLACE_DE_TIKTOK](https://www.tiktok.com/@xdino99t))
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pronto@gmail.com)
+
+###
+
+<h2 align="left">Sobre Mi 🙂</h4>
 
 ###
 
@@ -22,19 +28,19 @@
 
 ###
 
-<h2 align="left">⚙️🛠️ Mis Game Engines:</h2>
+<h2 align="left">Mis Game Engines ⚙️🛠️</h2>
 
 * DinoEngine - Prime C
 
 ###
 
-<h2 align="left">📜 Mis Lenguajes de programacion:</h2>
+<h2 align="left">Mis Lenguajes de programacion 📜</h2>
 
 * Prime C
 
 ###
 
-<h2 align="left">🧑‍💻 Tecnologias conocidas:</h4>
+<h2 align="left">Tecnologias conocidas 🧑‍💻</h4>
 
 ###
 
@@ -75,7 +81,6 @@
   <img src="https://cdn.simpleicons.org/android/3DDC84" height="40" alt="android logo"  />
 </div>
 
-###
 ###
 
 <p align="left">Last edited on: 04/02/2026</p>
