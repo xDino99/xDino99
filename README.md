@@ -22,14 +22,6 @@
 
 ###
 
-<h2 align="left">❓ En qué estoy trabajando actualmente</h2>
-
-* 🔧 Optimizando **DinoEngine**
-* 📖 Documentando el lenguaje **Prime C**
-* 🕹️ Prototipando un pequeño juego en Unity 5.6 C#
-
-###
-
 <h2 align="left">⚙️🛠️ Mis Game Engines:</h2>
 
 * DinoEngine - Prime C
@@ -42,7 +34,7 @@
 
 ###
 
-<h2 align="left">🧑‍💻 Lenguajes de programacion que uso:</h4>
+<h2 align="left">🧑‍💻 Tecnologias conocidas:</h4>
 
 ###
 
@@ -56,6 +48,11 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" height="40" alt="unity logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/love2d/love2d-original.svg" height="40" alt="love2d logo" />
+  <img src="https://lovr.org/img/favicon.png" height="40" alt="love2d logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
+  <img src="https://cdn.simpleicons.org/freebsd/AB2B28" height="40" alt="freebsd logo"  />
 </div>
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" height="40" alt="rust logo"  />
@@ -63,15 +60,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" height="40" alt="markdown logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="40" alt="kotlin logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
-</div>
-
-###
-
-<h2 align="left">🛠️ Herramientas que uso:</h4>
-
-###
-
-<div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" height="40" alt="blender logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="40" alt="visualstudio logo"  />
@@ -83,36 +71,11 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-original.svg" height="40" alt="photoshop logo" />
 </div>
 <div align="left">
-  <img src="https://libresprite.github.io/assets/ase.ico" height="40" alt="libresprite logo" />
-  <img src="https://upload.wikimedia.org/wikipedia/en/0/08/Resource_hacker_icon2.png" height="40" alt="resource hacker" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/7-Zip_Icon.svg/1280px-7-Zip_Icon.svg.png" height="40" alt="7zip logo" />
-  <img src="https://lonm.vivaldi.net/wp-content/uploads/sites/1533/2019/06/icon6-large.png" height="40" alt="Notepad++ logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
-</div>
-
-###
-
-<h2 align="left">⚙️ Game Engines que uso:</h2>
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" height="40" alt="unity logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/love2d/love2d-original.svg" height="40" alt="love2d logo" />
-  <img src="https://lovr.org/img/favicon.png" height="40" alt="love2d logo" />
-</div>
-
-###
-
-<h2 align="left">💻 Sistemas que uso:</h4>
-
-###
-
-<div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" height="40" alt="windows8 logo"  />
   <img src="https://cdn.simpleicons.org/android/3DDC84" height="40" alt="android logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
-  <img src="https://cdn.simpleicons.org/freebsd/AB2B28" height="40" alt="freebsd logo"  />
 </div>
 
+###
 ###
 
 <p align="left">Last edited on: 04/02/2026</p>
